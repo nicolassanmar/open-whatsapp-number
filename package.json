@@ -1,0 +1,15 @@
+{
+  "name": "open-whatsapp-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx generate-bookmarklet.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.19.2"
+  }
+}
